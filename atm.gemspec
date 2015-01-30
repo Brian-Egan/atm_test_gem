@@ -6,4 +6,3 @@ Gem::Specification.new do |s|
   s.description = "Sample gem"
   s.authors     = ["Your name"]
 end
-git
